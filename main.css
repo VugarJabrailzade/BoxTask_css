@@ -1,0 +1,87 @@
+body{
+    background: linear-gradient(to right ,skyblue,white)
+}
+
+
+h1{
+    color: white;
+  
+}
+p{
+   color: white;
+   font-size: 14px;
+   text-align: center;
+}
+
+
+.Tokyo{
+ 
+  text-align: center;
+  border: 3px solid;
+  border-color: gray;
+  border-radius: 8px;
+  width: 300px;
+  height: 200px;
+  background-image: url(Images/gettyimages-1390815938.jpg);
+  background-position: center;
+  background-size: cover;
+
+
+}
+.Barcelona{
+
+  margin-top: 10px;
+  text-align: center;
+  border: 3px solid;
+  border-color: gray;
+  border-radius: 8px;
+  width: 300px;
+  height: 200px;
+  background-image: url(Images/photo-1583422409516-2895a77efded.jpeg);
+  background-position: center;
+  background-size: cover;
+
+}
+.New-York{
+
+    margin-top:  10px;
+  text-align: center;
+  border: 3px solid;
+  border-color: gray;
+  border-radius: 8px;
+  width: 300px;
+  height: 200px;
+  background-image: url(Images/7qrDR2.png);
+  background-position: center;
+  background-size: cover;
+  
+}
+.Amsterdam{
+
+  margin-top:  10px;
+  text-align: center;
+  border: 3px solid;
+  border-color: gray;
+  border-radius: 8px;
+  width: 300px;
+  height: 200px;
+  background-image: url(Images/licensed-image.jpeg);
+  background-position: center;
+  background-size: cover;
+  
+}
+#Dubai{
+    margin-top: 10px;
+    text-align: center;
+    border: 3px solid;
+    border-color: grey;
+    border-radius: 8px;
+    width: 300px;
+    height: 200px;
+    background-image: url(Images/iStock-1333035210.avif);
+    background-position: center;
+    background-size: cover;
+}
+
+  
+
